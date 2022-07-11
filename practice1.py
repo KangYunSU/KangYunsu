@@ -1,3 +1,5 @@
 print("practice 1")
 
-print("prectice 2")
+print("practice 2")
+
+print("practice 3")
